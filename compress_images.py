@@ -1,3 +1,4 @@
+# python3 tinypng 图片压缩脚本 python3 compress_images.py 运行
 import os
 import tinify
 import time
