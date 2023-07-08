@@ -20,7 +20,7 @@ threading.Thread(target=check_exit).start()
 # 存储所有的 TinyPNG API keys
 tinify_keys = ["xxxx1","xxxx2"]
 
-# 每n次之后，输入当前使用的key和用量
+# 每n次之后，输出当前使用的key和用量
 n = 10
 
 # 图片路径数组
