@@ -11,6 +11,6 @@
 #### 处理完成后打印处理结果
 
 ## 使用方式
-#### 1.安装python3环境（python官网： https://www.python.org/ ，选择 Downloads->你操作系统相关的环境->3.x 版本下载）
-#### 2.安装tinify pip install tinify （如果多套 python环境 请使用 python3 ，使用 pip3 install tinify）
-#### 3.python compress_images.py 运行 （如果多套 python环境 请使用 python3 ，使用 python3 compress_images.py）
+#### 1.安装python3环境：python官网： https://www.python.org/ ，选择 Downloads->你操作系统相关的环境->3.x 版本下载
+#### 2.安装tinify： pip install tinify （如果多套 python环境 请使用 python3 ，使用 pip3 install tinify）
+#### 3.运行：python compress_images.py （如果多套 python环境 请使用 python3 ，使用 python3 compress_images.py）
